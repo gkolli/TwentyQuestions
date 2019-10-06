@@ -1,0 +1,24 @@
+**************************************************
+Please choose an animal out of the list below
+**************************************************
+Is the animal you chose often kept as a pet (y/n)?
+y
+Does your animal swim (y/n)?
+n
+Does your animal fly (y/n)?
+y
+You picked the Parrot!
+**************************************************
+Would you like to play again?
+y
+**************************************************
+Please choose an animal out of the list below
+**************************************************
+Is the animal you chose often kept as a pet (y/n)?
+n
+Does your animal swim (y/n)?
+f
+I cannot guess! Double check you entered everything correctly!
+**************************************************
+Would you like to play again?
+n
